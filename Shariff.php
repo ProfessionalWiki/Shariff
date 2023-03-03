@@ -21,7 +21,7 @@ class Shariff {
 	}
 
 	static function shariffLikeParserFeedHead(&$out, &$sk) {
-		$out->addModules( 'ext.Shariff' );
+		$out->addModules( [ 'ext.Shariff' ] );
 
 		return true;
 	}
