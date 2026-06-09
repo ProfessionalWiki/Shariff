@@ -2,12 +2,12 @@
 	"name": "Shariff",
 	"version": "2.0",
 	"author": "Niki Hansche",
-	"url": "https://github.com/vonloxley/Shariff-Mediawiki",
+	"url": "https://github.com/ProfessionalWiki/Shariff",
 	"description": "Insert 2-click \"Like\" buttons.",
 	"license-name": "MIT",
 	"type": "other",
 	"requires": {
-		"MediaWiki": ">= 1.29.0"
+		"MediaWiki": ">= 1.34.0"
 	},
 	"AutoloadClasses": {
 		"Shariff": "Shariff.php"
